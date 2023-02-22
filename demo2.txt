@@ -1,1 +1,2 @@
 this is to understand git pull command
+New line to understand git automation using Jenkins
